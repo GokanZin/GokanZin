@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GokanZin/GokanZin/output/snake.svg" alt="Snake animation" />
 ![snake gif](https://github.com/GokanZin/GokanZin/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/GokanZin/GokanZin/output/snake.svg" alt="Snake animation" />
 ###
