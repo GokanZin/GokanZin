@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokanZin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&custom_title=%F0%9F%91%91%20Minhas%20estat%C3%ADsticas" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GokanZin&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GokanZin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="120" alt="languages graph"  />
+  <img height="150" src="https://i.imgur.com/q0XbNGv.png"  />
 </div>
 
 ###
@@ -23,14 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://i.imgur.com/q0XbNGv.png"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/GokanZin/GokanZin/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -52,6 +42,18 @@
   <a href="https://discord.gg/22gnYtuTTs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/GokanZin/GokanZin/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GokanZin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&custom_title=%F0%9F%91%91%20Minhas%20estat%C3%ADsticas" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=GokanZin&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GokanZin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
 ###
