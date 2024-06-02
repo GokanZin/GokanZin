@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-![snake gif](https://github.com/GokanZin/GokanZin/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
@@ -38,5 +37,5 @@
 </div>
 
 ###
-
+![snake gif](https://github.com/GokanZin/GokanZin/blob/output/github-contribution-grid-snake.svg)
 ###
