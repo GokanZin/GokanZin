@@ -1,59 +1,151 @@
-<h2 align="left">Hi 👋! My name is Gokan and I'm from Brazil</h2>
-
-###
-
 <div align="center">
-  <img height="150" src="https://i.imgur.com/q0XbNGv.png"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:4c1d95&height=220&section=header&text=GokanZin&fontSize=90&fontAlignY=38&desc=Minecraft%20Dev%20%E2%80%A2%20Discord%20Bot%20Maker%20%E2%80%A2%20Web%20Developer&descAlignY=60&descSize=17&fontColor=ffffff&animation=fadeIn&stroke=a855f7&strokeWidth=2" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Minecraft+Mod+%26+Plugin+Developer;Discord+Bot+Architect+(JDA);Java+%7C+JavaScript+%7C+HTML+%7C+CSS;Forge+%7C+Fabric+%7C+NeoForge+%7C+Spigot;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+## 🧑‍💻 About Me
+
+Hey! I'm **Gokan**, a 20-year-old developer from **Brazil 🇧🇷** passionate about building things people actually use.
+
+- 🎮 I craft **Minecraft Mods** for Forge, Fabric & NeoForge
+- 🔌 I build **Spigot/Bukkit Plugins** from scratch
+- 🤖 I develop **Discord Bots** using JDA
+- 🌐 I work with **Frontend & Backend** web development
+- 🗄️ I manage databases with **MySQL & SQLite**
+- 🔥 Always learning something new
+- ⚡ Fun fact — I debug faster with lo-fi on 🎧
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+
+### ☕ Core Languages & Platforms
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🎮 Minecraft Ecosystem
+
+![Forge](https://img.shields.io/badge/Forge-EA7B39?style=for-the-badge&logo=curseforge&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-DBD6C5?style=for-the-badge&logo=fabricmc&logoColor=black)
+![NeoForge](https://img.shields.io/badge/NeoForge-FF6600?style=for-the-badge&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logoColor=white)
+![Bukkit](https://img.shields.io/badge/Bukkit-5C3317?style=for-the-badge&logoColor=white)
+
+### 🤖 Discord Development
+
+![JDA](https://img.shields.io/badge/JDA-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+### 🧰 Tools & IDEs
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
 </div>
 
-###
+---
 
-<h1 align="center">Sobre Mim</h1>
+## 🚀 What I Build
 
-###
+```java
+public class GokanZin extends Developer {
 
-<h6 align="center">👋 Olá! Eu sou Pedro e tenho 20 anos, Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em algumas linguagens de programação e bancos de dados, e estou sempre em busca de aprender novas habilidades e novas linguagens <br><br>🚀 O que eu faço:<br><br>- Desenvolvedor com experiência intermediária em Java e MySQL.<br>- Conhecimentos básicos em JavaScript.<br>- Trabalho com plugins para Minecraft e bots para Discord.<br><br>🌱 O que estou aprendendo:<br><br>Atualmente, estou me aprofundando nas áreas de back-end e front-end para expandir minhas habilidades em desenvolvimento web.</h6>
+    @Override
+    public String[] getSpecialties() {
+        return new String[]{
+            "⚔️  Minecraft Mods      — Forge / Fabric / NeoForge",
+            "🔌  Server Plugins      — Spigot & Bukkit",
+            "🤖  Discord Bots        — JDA (Java Discord API)",
+            "🌐  Web Development     — Frontend & Backend",
+            "🗄️  Database Design     — MySQL & SQLite"
+        };
+    }
 
-###
+    @Override
+    public String getCurrentGoal() {
+        return "🌱 Mastering full-stack web development";
+    }
+
+    @Override
+    public boolean isOpenToCollab() { return true; }
+}
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCAFj3IhJ30fsE0b31dHGQFg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="gokan_zin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/22gnYtuTTs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GokanZin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GokanZin's%20Stats&ring_color=a855f7&icon_color=a855f7" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=GokanZin&theme=tokyonight&hide_border=true&border_radius=6&locale=en&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" height="170"/>
+
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GokanZin/GokanZin/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokanZin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&custom_title=%F0%9F%91%91%20Minhas%20estat%C3%ADsticas" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GokanZin&locale=pt-br&mode=daily&theme=radical&hide_border=true&border_radius=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GokanZin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="120" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GokanZin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=500" height="140"/>
+
 </div>
 
-###
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GokanZin&theme=tokyo-night&hide_border=true&area=true&color=a855f7&line=a855f7&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GokanZin&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAFj3IhJ30fsE0b31dHGQFg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gokan_zin)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/22gnYtuTTs)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:1a0533,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+![Profile views](https://komarev.com/ghpvc/?username=GokanZin&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
